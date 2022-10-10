@@ -1,4 +1,4 @@
-package com.nab5m.alone;
+package com.nab5m.alone.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

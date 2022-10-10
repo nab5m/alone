@@ -1,4 +1,4 @@
-package com.nab5m.alone;
+package com.nab5m.alone.configs;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
